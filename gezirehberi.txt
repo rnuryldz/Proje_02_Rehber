@@ -1,0 +1,1 @@
+[{'yeradi': 'GAZIANTEP'}, {'yeradi': 'ANKARA'}, {'yeradi': 'KAHRAMANMARAS'}, {'yeradi': 'SANLIURFA'}, {'yeradi': 'RIZE'}, {'yeradi': 'SAMSUN'}, {'yeradi': 'MARDIN'}, {'yeradi': 'NIGDE'}, {'yeradi': 'NEVSEHIR'}, {'yeradi': 'MERSIN'}, {'yeradi': 'ANTALYA'}, {'yeradi': 'BURDUR'}, {'yeradi': 'ISPARTA'}, {'yeradi': 'ADANA'}, {'yeradi': 'DIYARBAKIR'}]
